@@ -1,1 +1,2 @@
 
+error You must execute the Zeus command in the project's root directory.
